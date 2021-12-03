@@ -1,4 +1,2 @@
-require('./property')
-require('./filter')
-require('./each')
-require('./mutation')
+require('./methods');
+require('./property');
